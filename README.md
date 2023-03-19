@@ -2,7 +2,7 @@ Title : Week 1 Toy problems
 
 done by Susan Jadeve Karimi
 
-Week 1 Toy problems Prerequisites Prerequisites:
+Week 1 Toy problems Prerequisites:
 
 This repo contains
 
