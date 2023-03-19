@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    padding: 0.5em;
+    height:75vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    color:greenyellow;
+    background-color: teal;
+    padding: 40px;
+    width:70%;
+    margin:20px ;
+}
+button{
+    color:white;
+    background-color:black;
+}
