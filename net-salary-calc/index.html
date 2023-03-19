@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link ref="stylesheet" href="./style.css">
+</head>
+<body id="container">
+   <h2>PAYE calculator</h2> 
+   <form id="paye">
+   <ul>
+   <li> <input name="salary"  placeholder="input monthly salary" type="number" id="salary"> </li>
+    <li><input name="PAYE"  placeholder="input salary after paye" type="number" id="salary"></li>
+    <li><input name="nhifDeduction"  placeholder="input salary after nhifDeduction" type="number" id="salary"></li>
+    <li><input name="nssfDeduction"  placeholder="input salary after nssfDeduction" type="number" id="salary"></li>
+    <li><input name="netSalary"  placeholder="input net salary" type="number" id="salary"></li>
+    <li><button>calculate</button></li>
+    </ul>
+    </form>
+<div>
+    <ul id="net">
+    </ul>
+</div>
+<script src="./script.js"></script>
+</body>
+</html>
